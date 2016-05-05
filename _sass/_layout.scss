@@ -187,6 +187,14 @@
 .post-meta {
     font-size: $small-font-size;
     color: $grey-color;
+    > ul {
+        display: inline-block;
+        list-style: none;
+        margin-left: 1em;
+        > li {
+            display: inline-block;            
+        }
+    }
 }
 
 .post-link {
