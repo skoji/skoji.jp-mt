@@ -1,0 +1,19 @@
+language: ruby
+rvm:
+- 2.2.2
+branches:
+  only:
+  - master
+scripts:
+  - bundle exec rake build
+before_install:
+  - eval `ssh-agent -s`
+  - chmod 600 ~/.ssh/config
+  - openssl aes-256-cbc -K $encrypted_0cf64fab5b09_key -iv $encrypted_0cf64fab5b09_iv -in deploy_key.enc -out deploy_key -d
+  - cp deploy_key ~/.ssh/
+  - chmod 600 ~/.ssh/deploy_key
+  - ssh-add ~/.ssh/deploy_key
+  - echo -e "Host skoji.jp\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config
+after_success:
+  - build/travis-deploy.sh
+
