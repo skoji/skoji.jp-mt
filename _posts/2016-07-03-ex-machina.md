@@ -1,6 +1,7 @@
 ---
 layout: post
 title: エクス・マキナを観てきた
+category: 映画
 ---
 
 <img src="/movabletype/images/ex-machina.jpg" alt="ex-machina" style="width: 40%; margin: 1em auto; display: block;" />
