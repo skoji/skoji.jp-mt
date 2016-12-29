@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 買い物ログ: MacBook Pro (15inch Late 2016)
+title: '買い物ログ: MacBook Pro (15inch Late 2016)'
 categories: [買い物, Mac/PC/Palm]
 ---
 
