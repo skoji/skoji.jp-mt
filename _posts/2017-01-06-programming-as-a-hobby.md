@@ -1,6 +1,6 @@
 ---
 layout: post
-title: programming-as-a-hobby
+title: 楽しみとしてのプログラミング
 categories: [ソフトウェア, 休むに似たり]
 ---
 
