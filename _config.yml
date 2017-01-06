@@ -28,7 +28,7 @@ defaults:
 category_slug_map:
   11日: "11"
   Mac/PC/Palm: macpalm
-  MT・WP設定: mt-wp
+  blog設定: mt-wp
   お酒: drink
   クルマ・バイク: car-motorcycle
   ソフトウェア: software
