@@ -4,5 +4,7 @@ if [ $# -ne 1 ]; then
    exit 1;
 fi
 pushd `dirname $0` > /dev/null
-/Applications/Emacs.app/Contents/MacOS/bin/emacsclient -n `bundle exec jekyll post $1 | grep 'New post created' | sed 's/New post created at \(.*\)\./\1/'`
+post=`bundle exec jekyll post $1 | grep 'New post created' | sed 's/New post created at \(.*\)\./\1/'`
+ruby refine-post.rb $post
+/Applications/Emacs.app/Contents/MacOS/bin/emacsclient -n $post
 popd > /dev/null
