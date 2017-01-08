@@ -17,6 +17,7 @@ baseurl: "/movabletype" # the subpath of your site, e.g. /blog
 url: "https://skoji.jp"
 twitter_username: skoji
 github_username: skoji
+fb_appid: 1422595807765053
 permalink: /:year/:month/:title.html
 defaults:
     -
