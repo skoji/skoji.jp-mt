@@ -3,7 +3,7 @@ layout: page
 title: このブログについて
 permalink: /about/
 ---
-ここはこじまさとし(小嶋智)の日記サイトです。メールはskoji_at_skoji.jp  
+ここは[こじまさとし(小嶋智)](/)の日記サイトです。メールはskoji_at_skoji.jp、Twitterは[@skoji](https://twitter.com/skoji)  
 活字とビールと料理と猫とマッドマックス 怒りのデス・ロードが好きなプログラマです。  
 ソフトウェアの話題は<a href="/blog">別館</a>へどうぞ。  
-(2016.5.5 更新)
+(2017.1.8 更新)
