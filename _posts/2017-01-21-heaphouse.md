@@ -2,7 +2,7 @@
 layout: post
 title: 『堆塵館』
 date: '2017-01-21T20:08:22+09:00'
-images: /movabletype/images/heaphouse.jpg
+image: /movabletype/images/heaphouse.jpg
 categories:
 - 本
 ---
