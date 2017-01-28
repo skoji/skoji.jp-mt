@@ -264,3 +264,13 @@
     height: 100%;
 }
 
+/* book info */
+.book-info {
+  padding: 0.5em 0.5em 0 0.5em;
+  border: 1px solid #000;
+  border-radius: 0.8em;
+  h1 {
+    font-size: 1em;
+    font-weight: bold;
+  }
+}
