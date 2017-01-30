@@ -23,10 +23,10 @@ categories:
 
 これら社会問題の描き方も素晴らしい。この世界の「人々」は、地球上のどんな生き物にも似ていないように思われるのに、人間の問題としてリアルに感じられるのだ。
 
-<div class='book-info'>
+<aside class='book-info'>
 <h1>『エターナル・フレイム』（グレッグ・イーガン）</h1>
 <ul>
 <li><a href='http://hanmoto.com/bd/isbn/9784153350281'>版元ドットコム</a></li>
 <li><a href='https://www.amazon.co.jp/dp/4153350281?tag=kaimonolog-22'>Amazon</a></li>
 </ul>
-</div>
+</aside>
