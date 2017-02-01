@@ -2,6 +2,7 @@
 layout: post
 title: 1月の振り返りと2月の目標
 date: '2017-02-01T08:40:39+09:00'
+image: /movabletype/images/mmfr.jpg
 categories:
 - 日常
 - 目標
